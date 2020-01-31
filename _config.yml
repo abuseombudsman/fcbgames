@@ -27,7 +27,7 @@ twitter_username:
 github_username:  abuseombudsman
 
 # Build settings
-theme: ""
+# theme: ""
 plugins:
   - jekyll-feed
 
