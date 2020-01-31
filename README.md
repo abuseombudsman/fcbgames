@@ -1,2 +1,2 @@
 # fcbgames
-A website aimed for reviewing FC Barcelona's older games.
+A website aimed for watching FC Barcelona's older games.
